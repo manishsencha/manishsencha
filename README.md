@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://manishsencha.github.io/](https://manishsencha.github.io/)
 
-- 💬 Ask me about **Javascript, React and Linux **
+- 💬 Ask me about **Javascript, React, Angular, Spring boot and Linux **
 
 - 📫 How to reach me **manishsencha2001@gmail.com**
 
