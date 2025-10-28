@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Sencha</h1>
 <h3 align="center">A passionate engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishsencha&label=Profile%20views&color=0e75b6&style=flat" alt="manishsencha" /> </p>
-
-- 🌱 I’m currently focusing on **Data Structure and Algorithms**
-
-- 👨‍💻 All of my projects are available at [https://manishsencha.github.io/](https://manishsencha.github.io/)
-
-- 💬 Ask me about **Javascript, React, Angular, Spring boot and Linux **
-
-- 📫 How to reach me **manishsencha2001@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
