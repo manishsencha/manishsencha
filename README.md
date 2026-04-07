@@ -50,7 +50,7 @@ Full-stack Software Engineer with **2.5+ years** of experience building **scalab
 | **Frontend** | React, Next.js, Angular, Material UI, D3.js |
 | **Backend** | Express, Flask, Spring Boot, REST APIs |
 | **Databases** | PostgreSQL, MongoDB, Vector Databases |
-| **Cloud & DevOps** | AWS, Linux, Git, GitHub, Webpack, Apache, Nginx |
+| **Cloud & DevOps** | AWS, Azure, GCP, Linux, Git, GitHub, Webpack, Apache, Nginx |
 | **GenAI & ML** | LLMs (OpenAI, Gemini, Perplexity), RAG Pipelines, Agentic Workflows, MCP |
 
 ---
