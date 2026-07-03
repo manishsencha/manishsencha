@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-Full-stack Software Engineer with **2.5+ years** of experience building **scalable web applications**, **GenAI systems**, and cloud infrastructure. I specialize in:
+Full-stack Software Engineer with **3 years** of experience building **scalable web applications**, **GenAI systems**, and cloud infrastructure. I specialize in:
 
 - 🤖 **GenAI & Agentic Workflows** - Designing RAG pipelines, LLM integrations, and AI-driven content automation
 - 💰 **Cloud Infrastructure** - Led AWS cost optimization achieving **<a href="https://engineering.tellect.in/#/case-studies/aws-cost-optimization">~80% infrastructure cost reduction</a>**
--  **System Architecture** - Building distributed systems with focus on performance and scalability
+- 📦 **System Architecture** - Building distributed systems with focus on performance and scalability
 - 📊 **Full-Stack Development** - End-to-end product delivery from design to production
 
 ---
@@ -58,7 +58,7 @@ Full-stack Software Engineer with **2.5+ years** of experience building **scalab
 ## 🎓 Education
 
 **Bachelor of Technology** — Shri G. S. Institute of Technology and Science, Indore  
-*2019 – 2023 | CGPA: 7.97*
+*2019 – 2023*
 
 ---
 
